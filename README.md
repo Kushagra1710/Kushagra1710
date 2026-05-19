@@ -7,8 +7,8 @@
 
 <div align="center">
   <p>🎓 Electronics & Communication Engineering @ <strong>IIIT Bhopal</strong></p>
-  <p>🌱 Currently mastering <strong>SwiftUI, Kotlin Multiplatform, and Advanced DSA</strong></p>
-  <p>💬 Ask me about <strong>iOS Development, Cross-Platform Apps, Firebase, C++, DSA</strong></p>
+  <p>🌱 Currently mastering <strong> Backend Developemnt, Kotlin Multiplatform, and Advanced DSA</strong></p>
+  
 </div>
 
 <br/>
@@ -74,8 +74,11 @@
 - **Problem-Solving Mastery:** 500+ problems solved across GeeksforGeeks, Code360, and multiple competitive platforms
 
 ### 🚀 Professional Experience:
-- **App Developer Intern @ CodSoft (May-June 2025):** Developed and deployed To-do list and Weather apps, demonstrating iOS development expertise
-
+- **SDE Intern @ Xelron (Feb-May 2026):**
+- Evaluated AI-generated code by validating diffs, implementation correctness, and test coverage against repository
+requirements.
+– Created targeted follow-up prompts and audited submissions for bugs, edge cases, scope alignment, consistency, and
+production readiness in multi-turn engineering tasks.
 <br/>
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
