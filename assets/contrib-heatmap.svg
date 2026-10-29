@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="245" viewBox="0 0 860 245" role="img" aria-label="Contribution calendar pending first sync">
+<title>Contribution calendar pending first sync</title>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#c9d1d9}.line{animation:reveal .5s both}@keyframes reveal{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.line{animation:none!important}}</style>
+<rect width="860" height="245" rx="14" fill="#0d1117"/>
+<text x="26" y="35" font-size="17" style="fill:#7ee787">$ ./contributions.sh</text><text x="26" y="120" font-size="16" style="fill:#c9d1d9">Contribution calendar awaiting its first sync.</text><text x="26" y="155" font-size="13" style="fill:#8b949e">GitHub Actions generates this from your real activity.</text></svg>
